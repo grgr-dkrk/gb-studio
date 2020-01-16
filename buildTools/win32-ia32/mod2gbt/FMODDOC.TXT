@@ -1,16 +1,16 @@
 /* (tabstops=8)
-╟╟╟╟╟╟╟╟╟╟╟╟╟╟╠╠╠╠╠╠╠╠╠╠╠╠╠╡╡╡╡╡╡╡╡╡╡╡╡╡╡╡╡╡╡╡╡╡╡╡╡╠╠╠╠╠╠╠╠╠╠╠╠╠╟╟╟╟╟╟╟╟╟╟╟╟╟╟
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 
- Ч MOD Player Tutorial by FireLight Ч Copyright (c) Brett Paterson 1994-95 Ч
-			   Ч Last updated 16/6/95 Ч
+ О©╫ MOD Player Tutorial by FireLight О©╫ Copyright (c) Brett Paterson 1994-95 О©╫
+			   О©╫ Last updated 16/6/95 О©╫
 
-╟╟╟╟╟╟╟╟╟╟╟╟╟╟╠╠╠╠╠╠╠╠╠╠╠╠╠╡╡╡╡╡╡╡╡╡╡╡╡╡╡╡╡╡╡╡╡╡╡╡╡╠╠╠╠╠╠╠╠╠╠╠╠╠╟╟╟╟╟╟╟╟╟╟╟╟╟╟
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 
 
-здддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддд©
-Ё                           ╟╠╡ : SECTION 0: ╡╠╟                             Ё
-Ё                           ╟╠╡     Index    ╡╠╟                             Ё
-юдддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫                           О©╫О©╫О©╫ : SECTION 0: О©╫О©╫О©╫                             О©╫
+О©╫                           О©╫О©╫О©╫     Index    О©╫О©╫О©╫                             О©╫
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 
 Section 1 : INTRODUCTION
 		1.1 Notes
@@ -74,14 +74,14 @@ Section 5 : EFFECTS
 
 Section 6 : APPENDIX - MOD FORMAT DOCUMENT
 
-здддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддд©
-Ё                           ╟╠╡ : SECTION 1: ╡╠╟                             Ё
-Ё                           ╟╠╡ Introduction ╡╠╟                             Ё
-юдддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫                           О©╫О©╫О©╫ : SECTION 1: О©╫О©╫О©╫                             О©╫
+О©╫                           О©╫О©╫О©╫ Introduction О©╫О©╫О©╫                             О©╫
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 
-зддддддддддддддддддд©
-Ё ╟╠╡ 1.1 Notes ╡╠╟ Ё
-юддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 1.1 Notes О©╫О©╫О©╫ О©╫
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 
 New in this version: 
 - Loader mistake fixed in section 2.6 ->
@@ -121,16 +121,16 @@ towards a language, but some examples I have used straight C code only to
 demonstrate how I did it.  C should be fairly intuitive to read so most
 people wont have that hard a time figuring it out.
 
-зддддддддддддддддддддддддд©
-Ё ╟╠╡ 1.2 Terminology ╡╠╟ Ё
-юддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 1.2 Terminology О©╫О©╫О©╫ О©╫
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
      
      TYPE    LENGTH  Bits    RANGE                   BORLAND/TURBO C
-     дддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддд
+     О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
      byte    1       8       0-255                   unsigned char
      word    2       16      0-65,535                unsigned int
      dword   4       32      0-4,294,967,295         unsigned long
-     дддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддд
+     О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 Throughout this text I use the terms BYTE,WORD, and DWORD, to make the
 document more general to all languages.  In C you can use typedefs to achieve
 the use of byte,word,dword terminology, and in pascal and asm the syntax is
@@ -143,9 +143,9 @@ TICK - I refer to a clock tick for the interrupt handler as a tick, some
 others use the term FRAME.  I will be using the term tick throughout the whole
 document.
 
-зддддддддддддддддддддддддддддддддддддддддддддддд©
-Ё ╟╠╡ 1.3 Contacting FireLight and feedback ╡╠╟ Ё
-юддддддддддддддддддддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 1.3 Contacting FireLight and feedback О©╫О©╫О©╫ О©╫
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 
 Contact is encouraged because I think I have left out some things and 
 probably made some mistakes (not that I can see), and would like you to
@@ -159,9 +159,9 @@ email : firelght@yoyo.cc.monash.edu.au
 phone : AU (056) 623795                
   IRC : FireLight on #coders, #trax or #aussies
 
-зддддддддддддддддддддддддддддд©
-Ё ╟╠╡ 1.4 Future versions ╡╠╟ Ё
-юддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 1.4 Future versions О©╫О©╫О©╫ О©╫
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 Im really starting to get into this stuff, so here is what will appear in
 future versions of this document.
 
@@ -173,14 +173,14 @@ o How to handle multiple formats - talking about your internal format for
 		    to support s3m and mtm and so info on these formats will
 		    be included.
 
-здддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддд©
-Ё                           ╟╠╡ : SECTION 2 : ╡╠╟                            Ё
-Ё                           ╟╠╡  The Loader   ╡╠╟                            Ё
-юдддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫                           О©╫О©╫О©╫ : SECTION 2 : О©╫О©╫О©╫                            О©╫
+О©╫                           О©╫О©╫О©╫  The Loader   О©╫О©╫О©╫                            О©╫
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 
-зддддддддддддддддддд©
-Ё ╟╠╡ 2.1 Notes ╡╠╟ Ё
-юддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 2.1 Notes О©╫О©╫О©╫ О©╫
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 Well first we've got to load the module in right?  Following is a step by
 step way to code your loader, and storage issues will be discussed to help
 you along.  I really don't feel like just writing another MOD format
@@ -204,9 +204,9 @@ probably going to be eager and want to jump into some code straight away.
 Storage issue follows just to be a guiding hand; not a 'must'.
 each pseudocode section follows on from the last.
 
-здддддддддддддддддддддддддд©
-Ё ╟╠╡ 2.2 Verification ╡╠╟ Ё
-юдддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 2.2 Verification О©╫О©╫О©╫ О©╫
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 
 Explanation:
 ============
@@ -235,9 +235,9 @@ Use this point to store the number of channels in a variable of your choice
 (I just use a global variable called CHANNELS)
 
 
-здддддддддддддддддддддддддддддд©
-Ё ╟╠╡ 2.3 Load Module Name ╡╠╟ Ё
-юдддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 2.3 Load Module Name О©╫О©╫О©╫ О©╫
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 
 Explanation:
 ============
@@ -286,9 +286,9 @@ NOTE: The Module name is supposed to be padded by 0's, and terminated with a
       loop and print out each character one at a time, or overwrite the 20th
       byte with a 0.
 
-зддддддддддддддддддддддддддддддддддддд©
-Ё ╟╠╡ 2.4 Load Sample Information ╡╠╟ Ё
-юддддддддддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 2.4 Load Sample Information О©╫О©╫О©╫ О©╫
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 
 Explanation:
 ============
@@ -358,9 +358,9 @@ stored properly.  This is VERY a important step.  Compare your output to
 the tracker it came from or a player that shows all sample information.
 
 
-здддддддддддддддддддддддддддддддддддд©
-Ё ╟╠╡ 2.5 Load Order Information ╡╠╟ Ё
-юдддддддддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 2.5 Load Order Information О©╫О©╫О©╫ О©╫
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 
 Explanation:
 ============
@@ -428,9 +428,9 @@ are correct.  Now you should have a viewer that can just about display every
 bit of information about the module!  OK that stuff was easy.  Now it's time
 for something tougher.. the pattern data!
 
-зддддддддддддддддддддддддддддддд©
-Ё ╟╠╡ 2.6 Load Pattern Data ╡╠╟ Ё
-юддддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 2.6 Load Pattern Data О©╫О©╫О©╫ О©╫
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 
 Explanation:
 ============
@@ -471,9 +471,9 @@ It works this way:
 - declare a pointer and allocate it the amount of memory calculated below;
 
 	  CHANNELS * 4 * 64 * (NUMBER_OF_PATTERNS+1)
-		     Ё   Ё
-		     Ё   юддд (rows per channel)
-		     юддддддд (bytes per note)
+		     О©╫   О©╫
+		     О©╫   О©╫О©╫О©╫О©╫ (rows per channel)
+		     О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫ (bytes per note)
 
 Why add 1 to NUMBER_OF_PATTERNS? well because patterns start at 0, and finish
 at NUMBER_OF_PATTERNS, hence the aditional 1.  If you didnt add 1 and there
@@ -496,11 +496,11 @@ at a time.
 A note is stored in the actuall file as 4 bytes, it is done in this fashion.  
 The pseudocode below shows how to unravel this amigafied mess :)
 
-зддддддддддддддддддддддддддддддддддддд©
-Ё Byte 0    Byte 1   Byte 2   Byte 3  Ё
-ЁдддддддддддддддддддддддддддддддддддддЁ
-ЁaaaaBBBB CCCCCCCCC DDDDeeee FFFFFFFFFЁ
-юддддддддддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ Byte 0    Byte 1   Byte 2   Byte 3  О©╫
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫дЁ
+О©╫aaaaBBBB CCCCCCCCC DDDDeeee FFFFFFFFFО©╫
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 aaaaDDDD     = sample number
 BBBBCCCCCCCC = sample period value
 eeee         = effect number
@@ -541,9 +541,9 @@ speed (but not noticably :) just by storing them in the 1 byte, and splitting
 them only in the few times that you do need it. (i.e, printing them out
 separately, or vibrato, or for finding out which E (extra) effect to use etc.)
 
-зддддддддддддддддддддддддддд©
-Ё ╟╠╡ 2.6.1 Four bytes? ╡╠╟ Ё *IMPORTANT*
-юддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 2.6.1 Four bytes? О©╫О©╫О©╫ О©╫ *IMPORTANT*
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 
 At this stage you're probably thinking.. how do I fit all this into only 4
 bytes?
@@ -578,9 +578,9 @@ between.
 So I get something like note=7bits, number=5bits, effect=4bits, eparm=8bits,
 = 7+5+4+8 = 24 = 3bytes!
 
-здддддддддддддддддддддддддддддд©
-Ё ╟╠╡ 2.7 Load Sample Data ╡╠╟ Ё
-юдддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 2.7 Load Sample Data О©╫О©╫О©╫ О©╫
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 
 PsuedoCode:
 ===========
@@ -602,9 +602,9 @@ the channels into a small buffer then DMA that buffer out to the sound card.
        they don't.
 - end loop
 
-зддддддддддддддддддддд©
-Ё ╟╠╡ 2.8 Phew :) ╡╠╟ Ё
-юддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 2.8 Phew :) О©╫О©╫О©╫ О©╫
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 Wasn't that bad was it? Now you have the FULL mod file stored away at your
 disposal, with samples ready to blast.
 
@@ -623,14 +623,14 @@ Now is a GOOD time to do some thorough testing.  Do these things
 
 
 
-здддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддд©
-Ё                           ╟╠╡  : SECTION 3 :  ╡╠╟                          Ё
-Ё                           ╟╠╡ Playing the MOD ╡╠╟                          Ё
-юдддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫                           О©╫О©╫О©╫  : SECTION 3 :  О©╫О©╫О©╫                          О©╫
+О©╫                           О©╫О©╫О©╫ Playing the MOD О©╫О©╫О©╫                          О©╫
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 
-зддддддддддддддддддддддддддддддддд©
-Ё ╟╠╡ 3.1 OK where do I start ╡╠╟ Ё
-юддддддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 3.1 OK where do I start О©╫О©╫О©╫ О©╫
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 
 I think the main thing you need to do now once you are satisfied your MOD is
 loaded properly, is to set up an interrupt function, and understand a bit
@@ -646,10 +646,10 @@ The system timer lies on INT 8
 - Get the old handlers vector for int 8h, and store it away for later
 - Set your new handler function to the vector for int 8h
 
- зддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддд©
- Ё REMEMBER TO REHOOK YOUR OLD TIMER TO ITS ORIGNAL PLACE WHEN THE SONG IS Ё
- Ё                               FINISHED!                                 Ё
- юддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды
+ О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+ О©╫ REMEMBER TO REHOOK YOUR OLD TIMER TO ITS ORIGNAL PLACE WHEN THE SONG IS О©╫
+ О©╫                               FINISHED!                                 О©╫
+ О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 
 In C you would do that like this:
     oldhandler = _dos_getvect(8);
@@ -682,9 +682,9 @@ In PASCAL it would look something like this
 If you're still not sure in C or pascal, check out the online manual on 
 getvect/setvect etc..
 
-зддддддддддддддддддддддддддддддддддддддд©
-Ё ╟╠╡ 3.2 Setting the timer's speed ╡╠╟ Ё
-юддддддддддддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 3.2 Setting the timer's speed О©╫О©╫О©╫ О©╫
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 Ok now your interrupt handler is already firing :) so one thing you must
 do is set it to the right speed, we don't want mods that play way to fast or
 slow, we want it at 125 BPM right now (or 50hz, or 50 ticks a second).
@@ -715,9 +715,9 @@ then SPEED = 1193180 / HZ  for the set timer routine.
 Simple huh.  You'll need this for effect Fxy, but don't worry about this until 
 later.
 
-здддддддддддддддддддддддддд©
-Ё ╟╠╡ 3.3 Player Logic ╡╠╟ Ё
-юдддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 3.3 Player Logic О©╫О©╫О©╫ О©╫
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 
 Now lets take a look at the interrupt function, this is where the playing
 is done.
@@ -734,7 +734,7 @@ volume slides and vibrato.
 SPEED IS 6
 
 tick#
-зды
+О©╫О©╫О©╫
 0: UPDATE ROW #0    <- update the 4,6 or 8 notes here in a mod's row.
 1: ---  \
 2: ---   \
@@ -751,16 +751,16 @@ tick#
 etc..
 
 Logically a very basic representation of playing a mod looks like this:
-зддддддддддддддддддддд©
-Ё STATIC TICK = SPEED Ё  - declaration, start it off at SPEED, not 0, as we
-Ё                     Ё    want straight into the 'if tick >= speed condition'
-Ё TICK = TICK + 1     Ё  - now increment the tick counter
-Ё if TICK >= SPEED    Ё  - if the tick # is bigger or equal than SPEED then
-Ё       update_row    Ё  - update the CHANNEL number of notes for the new row
-Ё       tick =0       Ё  - reset tick to 0
-Ё       ROW = ROW + 1 Ё  - incrememnt our row
-Ё else update_effect  Ё  - else we update the tick based effects.
-юддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ STATIC TICK = SPEED О©╫  - declaration, start it off at SPEED, not 0, as we
+О©╫                     О©╫    want straight into the 'if tick >= speed condition'
+О©╫ TICK = TICK + 1     О©╫  - now increment the tick counter
+О©╫ if TICK >= SPEED    О©╫  - if the tick # is bigger or equal than SPEED then
+О©╫       update_row    О©╫  - update the CHANNEL number of notes for the new row
+О©╫       tick =0       О©╫  - reset tick to 0
+О©╫       ROW = ROW + 1 О©╫  - incrememnt our row
+О©╫ else update_effect  О©╫  - else we update the tick based effects.
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 But you will have to take into account there are only 64 rows in a pattern,
 and if you hit 64 then jump to the next pattern and start at row 0 again.
 I say 64 because row 63's effects have to be played out before you jump to
@@ -769,9 +769,9 @@ the next pattern.
 don't bother with update_effect for some time until you have got update_row
 going ok.
 
-здддддддддддддддддддддддддддддддд©
-Ё ╟╠╡ 3.3.1  Orders/Patterns ╡╠╟ Ё
-юдддддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 3.3.1  Orders/Patterns О©╫О©╫О©╫ О©╫
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 Just a short note on this.
 When you reach the end of the pattern or whatever, you need to go to the next
 order.  Now say you had your order pattern numbers stored in an array as they
@@ -780,11 +780,11 @@ according to the index ORDER, and then repositioning your pattern pointer
 accordingly.
 
 ie. If your order list is something like this.
-	здддддддддддддддддддддддддд©
-  Order Ё 0 1 2 3 4 5 6 7 8 9 .... Ё
-	ЁддддддддддддддддддддддддддЁ
-Pattern Ё 0 0 1 4 5 2 3 4 4 6 .... Ё
-	юдддддддддддддддддддддддддды
+	О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+  Order О©╫ 0 1 2 3 4 5 6 7 8 9 .... О©╫
+	О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫дЁ
+Pattern О©╫ 0 0 1 4 5 2 3 4 4 6 .... О©╫
+	О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 and you have an array of patterns set up as ORDER_TABLE[128].
 Selecting the appropriate pattern is as simple as finding ORDER_TABLE[ORDER].
 To find the offset in your buffer you should know how to do by now by using
@@ -803,9 +803,9 @@ pointer, so that all I have to do is increment the row number or the order
 number and this formula will pick it up for me and set the pointer
 accordingly.
 
-зддддддддддддддддддддддддддддддд©
-Ё ╟╠╡ 3.4 Inside update row ╡╠╟ Ё
-юддддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 3.4 Inside update row О©╫О©╫О©╫ О©╫
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 
 Ok on every tick 0, we want to update CHANNELS number of channels
 
@@ -877,9 +877,9 @@ make sure you can try and get it as fast as possible.
 *NOTE - setfrequency in this example is being passed amiga values, and should
 	convert it to a relevant hardware value.
 
-здддддддддддддддддддддддддддддддддддддддддддддд©
-Ё ╟╠╡ 3.5 Period Frequencies and Fine Tune ╡╠╟ Ё
-юдддддддддддддддддддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 3.5 Period Frequencies and Fine Tune О©╫О©╫О©╫ О©╫
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 
 The formula for converting amiga period value to hz, is accomplished using
 ONE of the following formulas.  Why there are 2 will be explained shortly.
@@ -989,9 +989,9 @@ mt_PeriodTable
   from C-1 with -8 finetune, then goes up through all the finetunes to B-3
   with finetune +7.  Makes things a lot easier I find.
 
-зддддддддддддддддддддддддддддддддддддддддддддд©
-Ё ╟╠╡ 3.5.1 What do I do with this table? ╡╠╟ Ё
-юддддддддддддддддддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 3.5.1 What do I do with this table? О©╫О©╫О©╫ О©╫
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 I pondered this one myself for a bit when I first started.  It would be nice
 if you could just store in the amiga values as your notes, then give them to
 your formula to use, and not even use a table to lookup amiga values.  
@@ -1040,9 +1040,9 @@ for (count2=1;count2<37; count2++) {     // start the search
 If we went through the whole table and didnt find the value, then it is
 assumed there is no note, and it stays at -1.
 
-здддддддддддддддддддддддддддддддддддд©
-Ё ╟╠╡ 3.5.2 Gravis UltraSound :) ╡╠╟ Ё
-юдддддддддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 3.5.2 Gravis UltraSound :) О©╫О©╫О©╫ О©╫
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 
 How to change to a GUS frequency???  Well you should find this sort of stuff
 yourself but because im gus biased ill talk a bit about it :)
@@ -1092,9 +1092,9 @@ calculation huh! (cuts 4 divs/muls down to 1 div)
 ok ok.. I know you are too lazy to work out 44.1khz, so it 
 is 83117 / amigafreq.
 
-здддддддддддддддддддд©
-Ё ╟╠╡ 3.6 Volume ╡╠╟ Ё
-юдддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 3.6 Volume О©╫О©╫О©╫ О©╫
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 Handling volumes is one of the simplest parts of coding your player.  It
 is just a matter of looking up a table or adjusting the percentage of
 the sample to be mixed into the final output.
@@ -1120,17 +1120,17 @@ word GUSvol[] = {
 };
 
 
-здддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддд©
-Ё                           ╟╠╡  : SECTION 4 :  ╡╠╟                          Ё
-Ё                           ╟╠╡  Miscellaneous  ╡╠╟                          Ё
-юдддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫                           О©╫О©╫О©╫  : SECTION 4 :  О©╫О©╫О©╫                          О©╫
+О©╫                           О©╫О©╫О©╫  Miscellaneous  О©╫О©╫О©╫                          О©╫
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 
 This section describes some of the little things that should be taken note of
 when writing a mod player, but are VERY important.
 
-зддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддд©
-Ё ╟╠╡ 4.1 Notes Without Instrument Numbers or Frequencies ╡╠╟ Ё *IMPORTANT*
-юддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 4.1 Notes Without Instrument Numbers or Frequencies О©╫О©╫О©╫ О©╫ *IMPORTANT*
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 This subsection is just about the most important of this whole section.
 Sometimes a composer will some seemingly strange methods to write a tune,
 i.e. leaving an instrument number off, or putting an instrument number but
@@ -1176,10 +1176,10 @@ CONCLUSION:
 						       or EDx)
 
 
-здддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддд©
-Ё                           ╟╠╡  : SECTION 5 :  ╡╠╟                          Ё
-Ё                           ╟╠╡     Effects     ╡╠╟                          Ё
-юдддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫                           О©╫О©╫О©╫  : SECTION 5 :  О©╫О©╫О©╫                          О©╫
+О©╫                           О©╫О©╫О©╫     Effects     О©╫О©╫О©╫                          О©╫
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 
 This part of the document is one of the most sorely needed, it actually tells
 you HOW to code the effect, not just some vague reference on it and a basic
@@ -1198,9 +1198,9 @@ When coding your player, go for effect Cxy first.  It is the easiest and most
 substantial effect to enable.  It will even make your tune resemble its
 normal self :).  Then go for effect Fxy (set speed).
 
-зддддддддддддддддддддддддддддддддддд©
-Ё ╟╠╡ 5.1 Effect 0xy (Arpeggio) ╡╠╟ Ё UPDATED: T0 [N] : INBETWEEN [Y]  
-юддддддддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 5.1 Effect 0xy (Arpeggio) О©╫О©╫О©╫ О©╫ UPDATED: T0 [N] : INBETWEEN [Y]  
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 This effect alternates the pitch rapidly to simulate a chord.  It usually
 sounds very grating or harsh so it isnt used much except for chip tunes.
 
@@ -1233,9 +1233,9 @@ It is done something like this:
 - if arpcounter = 1 set the frequency to the normal value + x # of finetunes
 - if arpcounter = 2 set the frequency to the normal value + y # of finetunes
 
-зддддддддддддддддддддддддддддддддддд©
-Ё ╟╠╡ 5.2 Effect 1xy (Porta Up) ╡╠╟ Ё UPDATED: T0 [N] : INBETWEEN [Y]  
-юддддддддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 5.2 Effect 1xy (Porta Up) О©╫О©╫О©╫ О©╫ UPDATED: T0 [N] : INBETWEEN [Y]  
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 This effect causes a pitch slide that goes up.
 
 EG: 
@@ -1259,9 +1259,9 @@ above it but it is not standard (some mods might be written thinking that
 the porta WILL stop at B-3, so be carefull).  Personally I stop at 54, or 
 approximately B-5.
 
-зддддддддддддддддддддддддддддддддддддд©
-Ё ╟╠╡ 5.3 Effect 2xy (Porta Down) ╡╠╟ Ё UPDATED: T0 [N] : INBETWEEN [Y]  
-юддддддддддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 5.3 Effect 2xy (Porta Down) О©╫О©╫О©╫ О©╫ UPDATED: T0 [N] : INBETWEEN [Y]  
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 This effect causes a pitch slide that goes down.
 
 EG: 
@@ -1283,9 +1283,9 @@ Tick 3 subtract EFFECT_PARAMETER from the frequency, and set it.
 Be careful you don't slide too low.  Going below C-1 is non standard, and 
 going below a frequency of 1 could cause horrible side effects :)
 
-здддддддддддддддддддддддддддддддддддддддд©
-Ё ╟╠╡ 5.4 Effect 3xy (Porta To Note) ╡╠╟ Ё UPDATED: T0 [Y] : INBETWEEN [Y]  
-юдддддддддддддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 5.4 Effect 3xy (Porta To Note) О©╫О©╫О©╫ О©╫ UPDATED: T0 [Y] : INBETWEEN [Y]  
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 This effect causes the pitch to slide towards the note specified.
 If there is no note specified it slides towards the last note specified in
 the Porta to Note effect.
@@ -1316,9 +1316,9 @@ On OTHER ticks:
   Subtract or add depending on if the current frequency is smaller or larger
   than NOTE_TO_PORTA_TO.
 
-здддддддддддддддддддддддддддддддддд©
-Ё ╟╠╡ 5.5 Effect 4xy (Vibrato) ╡╠╟ Ё UPDATED: T0 [N] : INBETWEEN [Y]  
-юдддддддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 5.5 Effect 4xy (Vibrato) О©╫О©╫О©╫ О©╫ UPDATED: T0 [N] : INBETWEEN [Y]  
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 This effect causes the pitch to waver up and down around the base note.
 If no parameter use the last vibrato parameters used for that channel.
 
@@ -1334,7 +1334,7 @@ Range: x = speed to vibrate at (0h-Fh)
 This is simply a case of getting a sine table (the default wavecontrol - see
 section 5.20 for other vibrato wavecontrols), and following along it 
 adjusting the frequency by adding or subtracting the value found according to
-the the position of the table, which is incremented by VIBRATO_SPEED. 
+the position of the table, which is incremented by VIBRATO_SPEED. 
 (ie you skip through the sine table VIBRATO_SPEED positions every tick)
 
 On TICK 0 the 2 vibrato values (position and neg flag) should be cleared to 0 
@@ -1409,9 +1409,9 @@ if (effect == 0x4 || effect == 0x6) {
 	}
 }
 
-здддддддддддддддддддддддддддддддддддддддддддд©
-Ё ╟╠╡ 5.6 Effect 5xy (Porta + Vol Slide) ╡╠╟ Ё UPDATED: T0 [N] : INBETWEEN [Y]  
-юдддддддддддддддддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 5.6 Effect 5xy (Porta + Vol Slide) О©╫О©╫О©╫ О©╫ UPDATED: T0 [N] : INBETWEEN [Y]  
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 This is a combination of Porta to Note (3xy), and volume slide (Axy).
 The parameter does not affect the porta, only the volume.
 If no parameter use the last porta to note parameter used for that channel.
@@ -1436,9 +1436,9 @@ if (effect = 0Ah OR effect = 05h) DO_VOLUME_SLIDE
 
 kill 2 birds with 1 stone!
 
-здддддддддддддддддддддддддддддддддддддддддддд©
-Ё ╟╠╡ 5.7 Effect 6xy (Vibrato+Vol Slide) ╡╠╟ Ё UPDATED: T0 [N] : INBETWEEN [Y]  
-юдддддддддддддддддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 5.7 Effect 6xy (Vibrato+Vol Slide) О©╫О©╫О©╫ О©╫ UPDATED: T0 [N] : INBETWEEN [Y]  
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 This is a combination of Vibrato (4xy), and volume slide (Axy).
 The parameter does not affect the vibrato, only the volume.
 If no parameter use the vibrato parameters used for that channel.
@@ -1463,9 +1463,9 @@ if (effect = 0Ah OR effect = 06h) DO_VOLUME_SLIDE
 
 kill 2 birds with 1 stone again! (hrmm thats 4 birds now :)
 
-здддддддддддддддддддддддддддддддддд©
-Ё ╟╠╡ 5.8 Effect 7xy (Tremolo) ╡╠╟ Ё UPDATED: T0 [N] : INBETWEEN [Y]  
-юдддддддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 5.8 Effect 7xy (Tremolo) О©╫О©╫О©╫ О©╫ UPDATED: T0 [N] : INBETWEEN [Y]  
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 This effect causes the volume to oscillate up and down in a fluctuating style
 around the current volume, like vibrato but affecting volume not pitch.
 If no parameter use the last tremolo parameter used for that channel.
@@ -1508,9 +1508,9 @@ more information check vibrato because they really are the same.  It is
 explained in more detail, and the sine table mentioned is stored in there
 also.)
 
-здддддддддддддддддддддддддддддд©
-Ё ╟╠╡ 5.9 Effect 8xy (Pan) ╡╠╟ Ё UPDATED: T0 [N] : INBETWEEN [Y]  
-юдддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 5.9 Effect 8xy (Pan) О©╫О©╫О©╫ О©╫ UPDATED: T0 [N] : INBETWEEN [Y]  
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 This effect is non-Protracker, but is worth mentioning.  It was introduced
 by Otto Chrons in DMP (dual mod player), and causes the left/right position 
 of the current channel to be set to the position specified.  Hence Panning.
@@ -1534,9 +1534,9 @@ A4 = surround *
    voice to the full left, and the other inverted, and to the full left.
    You CAN have surround sound on a GUS.)
 
-зддддддддддддддддддддддддддддддддддддддддд©
-Ё ╟╠╡ 5.10 Effect 9xy (Sample Offset) ╡╠╟ Ё UPDATED: T0 [Y] : INBETWEEN [N]
-юддддддддддддддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 5.10 Effect 9xy (Sample Offset) О©╫О©╫О©╫ О©╫ UPDATED: T0 [Y] : INBETWEEN [N]
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 This effect causes the note to start playing at an offset into the sample,
 instead of just from the start.  It is used so that the beginning of a sample
 is not played, but skipped.
@@ -1557,9 +1557,9 @@ then play it.  Quite simple really.
 
 Remember to check if the user set an offset that is larger than the sample!
 
-здддддддддддддддддддддддддддддддддддддддд©
-Ё ╟╠╡ 5.11 Effect Axy (Volume Slide) ╡╠╟ Ё UPDATED: T0 [N] : INBETWEEN [Y]
-юдддддддддддддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 5.11 Effect Axy (Volume Slide) О©╫О©╫О©╫ О©╫ UPDATED: T0 [N] : INBETWEEN [Y]
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 This effect causes the volume of the track to slide up or down.
 
 EG:
@@ -1587,9 +1587,9 @@ if y > 0 then subtract y to volume[CHANNEL] and set the volume
 
 * before setting the volume, make sure you havent slid past 0 or 64.
 
-зддддддддддддддддддддддддддддддддддддддддддд©
-Ё ╟╠╡ 5.12 Effect Bxy (Jump To Pattern) ╡╠╟ Ё UPDATED: T0 [Y] : INBETWEEN [N]
-юддддддддддддддддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 5.12 Effect Bxy (Jump To Pattern) О©╫О©╫О©╫ О©╫ UPDATED: T0 [Y] : INBETWEEN [N]
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 This effect jumps to a specified channel (in hex)
 
 EG:
@@ -1606,9 +1606,9 @@ set it to the last order.
   be set to -1, so it is 1 less than 0, then as the tick handler adds 1 to
   the row it is 0 again, and nothing is wrong.
 
-здддддддддддддддддддддддддддддддддддддд©
-Ё ╟╠╡ 5.13 Effect Cxy (Set Volume) ╡╠╟ Ё UPDATED: T0 [Y] : INBETWEEN [N]  
-юдддддддддддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 5.13 Effect Cxy (Set Volume) О©╫О©╫О©╫ О©╫ UPDATED: T0 [Y] : INBETWEEN [N]  
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 This effect sets the volume of a channel.
 
 EG:
@@ -1622,9 +1622,9 @@ The volume cannot be set past 40h, and if it is then set it to 40h.
 Only process this effect on tick 0, and likewise only set the volume on tick
 0.
 
-зддддддддддддддддддддддддддддддддддддддддд©
-Ё ╟╠╡ 5.14 Effect Dxy (Pattern Break) ╡╠╟ Ё UPDATED: T0 [Y] : INBETWEEN [N]  
-юддддддддддддддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 5.14 Effect Dxy (Pattern Break) О©╫О©╫О©╫ О©╫ UPDATED: T0 [Y] : INBETWEEN [N]  
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 This effect breaks to the next pattern starting at the specified row.
 
 EG:
@@ -1645,9 +1645,9 @@ It works something like this:
   be set to (x*10+y -1), so it is 1 less, then as the tick handler adds 1 to
   to the row again, nothing is wrong.
 
-зддддддддддддддддддддддддддддддддддддд©
-Ё ╟╠╡ 5.15 Effect Fxy (Set Speed) ╡╠╟ Ё UPDATED: T0 [Y] : INBETWEEN [N]  
-юддддддддддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 5.15 Effect Fxy (Set Speed) О©╫О©╫О©╫ О©╫ UPDATED: T0 [Y] : INBETWEEN [N]  
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 This effect sets the speed of the song or the BPM.
 
 EG:
@@ -1663,9 +1663,9 @@ to set your bpm variable and reset the timer speed.  This is demonstrated in
 section 3.2 on how to change the speed of the system timer according to 
 beats per minute.
 
-здддддддддддддддддддддддддддддддддддддд©
-Ё ╟╠╡ 5.16 Effect E0x (Set Filter) ╡╠╟ Ё UPDATED: T0 [Y] : INBETWEEN [N]  
-юдддддддддддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 5.16 Effect E0x (Set Filter) О©╫О©╫О©╫ О©╫ UPDATED: T0 [Y] : INBETWEEN [N]  
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 This effect turns on or off the hardware filter (not applicable to most pc
 sound cards)
 
@@ -1680,9 +1680,9 @@ function which was designed to turn on the amiga's filter.
 If you wanted to you could try implementing this effect in the SBPro's h/w
 filter.
 
-зддддддддддддддддддддддддддддддддддддддддд©
-Ё ╟╠╡ 5.17 Effect E1x (Fine Porta Up) ╡╠╟ Ё UPDATED: T0 [Y] : INBETWEEN [N]  
-юддддддддддддддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 5.17 Effect E1x (Fine Porta Up) О©╫О©╫О©╫ О©╫ UPDATED: T0 [Y] : INBETWEEN [N]  
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 This effect slides the pitch up by x amiga value's per row.
 
 EG:
@@ -1697,9 +1697,9 @@ as just subtracting x from the current channel's frequency. (remember you
 subtract to raise the pitch.)  You don't subtract any finetunes or anything,
 just do a straight subtraction of x from the amigaval.
 
-зддддддддддддддддддддддддддддддддддддддддддд©
-Ё ╟╠╡ 5.18 Effect E2x (Fine Porta Down) ╡╠╟ Ё UPDATED: T0 [Y] : INBETWEEN [N]  
-юддддддддддддддддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 5.18 Effect E2x (Fine Porta Down) О©╫О©╫О©╫ О©╫ UPDATED: T0 [Y] : INBETWEEN [N]  
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 This effect slides the pitch down by x amiga value's per row.
 
 EG:
@@ -1712,9 +1712,9 @@ Range: x = amount to slide pitch down by. (0h-Fh)
 This is identical to effect E2x, except but you add to the amigaval of the 
 channel by x, and don't subtract.
 
-здддддддддддддддддддддддддддддддддддддддддддд©
-Ё ╟╠╡ 5.19 Effect E3x (Glissando Contrl) ╡╠╟ Ё UPDATED: T0 [Y] : INBETWEEN [N]  
-юдддддддддддддддддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 5.19 Effect E3x (Glissando Contrl) О©╫О©╫О©╫ О©╫ UPDATED: T0 [Y] : INBETWEEN [N]  
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 This effect causes a change in the effect 3xy (porta to note).  It toggles
 whether to do a smooth slide or whether to slide in jumps of semitones.
 
@@ -1733,9 +1733,9 @@ if you are sliding the pitch up, and vice versa for going down.
 To implement this just keep a gliss flag and check it while doing your porta
 effect in your UpdateEffect function.
 
-здддддддддддддддддддддддддддддддддддддддддддд©
-Ё ╟╠╡ 5.20 Effect E4x (Vibrato Waveform) ╡╠╟ Ё UPDATED: T0 [Y] : INBETWEEN [N]
-юдддддддддддддддддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 5.20 Effect E4x (Vibrato Waveform) О©╫О©╫О©╫ О©╫ UPDATED: T0 [Y] : INBETWEEN [N]
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 This effect set the waveform for the vibrato command to follow.
 
 EG:
@@ -1764,9 +1764,9 @@ x=7 : don't retrig random waveform
   4 or more, then the waveform is not restarted, and just continues from the
   previous position in the vibrato waveform.
 
-здддддддддддддддддддддддддддддддддддддддд©
-Ё ╟╠╡ 5.21 Effect E5x (Set Finetune) ╡╠╟ Ё UPDATED: T0 [Y] : INBETWEEN [N]
-юдддддддддддддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 5.21 Effect E5x (Set Finetune) О©╫О©╫О©╫ О©╫ UPDATED: T0 [Y] : INBETWEEN [N]
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 This effect sets the finetune on a selected instrument.
 
 EG:
@@ -1783,9 +1783,9 @@ To implement it, just
 - get the finetune value in the effect
 - set the finetune for that instrument.
 
-здддддддддддддддддддддддддддддддддддддддд©
-Ё ╟╠╡ 5.22 Effect E6x (Pattern Loop) ╡╠╟ Ё UPDATED: T0 [Y] : INBETWEEN [N]
-юдддддддддддддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 5.22 Effect E6x (Pattern Loop) О©╫О©╫О©╫ О©╫ UPDATED: T0 [Y] : INBETWEEN [N]
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 This effect allows the user to loop a part of a pattern x number of times.
 
 EG:
@@ -1817,9 +1817,9 @@ case 0x6 : if (eparmy == 0) patlooprow = row;   // store position of param=0
 		if (patloopno > 0) row = patlooprow-1;  // if looping do jump
 	   }
 
-здддддддддддддддддддддддддддддддддддддддддддд©
-Ё ╟╠╡ 5.23 Effect E7x (Tremolo WaveForm) ╡╠╟ Ё UPDATED: T0 [Y] : INBETWEEN [N]
-юдддддддддддддддддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 5.23 Effect E7x (Tremolo WaveForm) О©╫О©╫О©╫ О©╫ UPDATED: T0 [Y] : INBETWEEN [N]
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 This effect set the waveform for the tremolo command to follow, just like
 vibrato.
 
@@ -1841,9 +1841,9 @@ x=7 : don't retrig random waveform
 
 see section 5.20 for information.
 
-здддддддддддддддддддддддддддддддддддддддддд©
-Ё ╟╠╡ 5.24 Effect E8x (16 pos panning) ╡╠╟ Ё UPDATED: T0 [Y] : INBETWEEN [N]
-юдддддддддддддддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 5.24 Effect E8x (16 pos panning) О©╫О©╫О©╫ О©╫ UPDATED: T0 [Y] : INBETWEEN [N]
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 This effect lets you do 16 position panning
 
 EG:
@@ -1855,9 +1855,9 @@ Range: x=position to pan too (0h-0Fh)
 On tick 0, just read in the parameter and set the relative panning value for
 the channel.
 
-зддддддддддддддддддддддддддддддддддддддд©
-Ё ╟╠╡ 5.25 Effect E9x (Retrig Note) ╡╠╟ Ё UPDATED: T0 [N] : INBETWEEN [Y]
-юддддддддддддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 5.25 Effect E9x (Retrig Note) О©╫О©╫О©╫ О©╫ UPDATED: T0 [N] : INBETWEEN [Y]
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 This effect retiggers the current note every x ticks.
 
 EG:
@@ -1878,9 +1878,9 @@ etc.
 When it does happen just play out the note as you would normally.  The note is
 played on tick 0 as it would normally be.
 
-здддддддддддддддддддддддддддддддддддддддддддд©
-Ё ╟╠╡ 5.26 Effect EAx (Fine VolSlide Up) ╡╠╟ Ё UPDATED: T0 [Y] : INBETWEEN [N]
-юдддддддддддддддддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 5.26 Effect EAx (Fine VolSlide Up) О©╫О©╫О©╫ О©╫ UPDATED: T0 [Y] : INBETWEEN [N]
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 This effect slides the volume up x values per row.
 
 EG:
@@ -1897,9 +1897,9 @@ The only checking to be done is for volumes larger than 64.
 hint: for all these volume commands, only do the checking for bounds once,
 just before you actually set the volume.
 
-здддддддддддддддддддддддддддддддддддддддддддддд©
-Ё ╟╠╡ 5.27 Effect EBx (Fine VolSlide Down) ╡╠╟ Ё UPDATED: T0 [Y] : INBETWEEN [N]
-юдддддддддддддддддддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 5.27 Effect EBx (Fine VolSlide Down) О©╫О©╫О©╫ О©╫ UPDATED: T0 [Y] : INBETWEEN [N]
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 This effect slides the volume up x values per row.
 
 EG:
@@ -1916,9 +1916,9 @@ The only checking to be done is for volumes smaller than 0.
 hint: for all these volume commands, only do the checking for bounds once,
 just before you actually set the volume.
 
-здддддддддддддддддддддддддддддддддддд©
-Ё ╟╠╡ 5.28 Effect ECx (Cut Note) ╡╠╟ Ё UPDATED: T0 [N] : INBETWEEN [Y]
-юдддддддддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 5.28 Effect ECx (Cut Note) О©╫О©╫О©╫ О©╫ UPDATED: T0 [N] : INBETWEEN [Y]
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 This effect cuts the volume of the note to 0 after x amount of ticks.
 
 EG: (at speed 6 say)
@@ -1932,9 +1932,9 @@ Of course if the user specified x as a number more than the speed of the song,
 then it would be ok because it would never get to tick x, and the effect is
 ignored.
 
-здддддддддддддддддддддддддддддддддддддд©
-Ё ╟╠╡ 5.29 Effect EDx (Delay Note) ╡╠╟ Ё UPDATED: T0 [N] : INBETWEEN [Y]
-юдддддддддддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 5.29 Effect EDx (Delay Note) О©╫О©╫О©╫ О©╫ UPDATED: T0 [N] : INBETWEEN [Y]
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 This effect waits for x amount of ticks before it actually plays the sample.
 
 EG: (at speed 6 say)
@@ -1949,9 +1949,9 @@ Again if the user specified x as a number more than the speed of the song,
 then it would be ok because it would never get to tick x, and the effect is
 ignored.
 
-зддддддддддддддддддддддддддддддддддддддддд©
-Ё ╟╠╡ 5.30 Effect EEx (Pattern Delay) ╡╠╟ Ё UPDATED: T0 [Y] : INBETWEEN [N]
-юддддддддддддддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 5.30 Effect EEx (Pattern Delay) О©╫О©╫О©╫ О©╫ UPDATED: T0 [Y] : INBETWEEN [N]
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 This effect delays the pattern for the time it would take to play x number of
 notes.
 
@@ -1983,9 +1983,9 @@ This just boils down to not playing the note or incrementing the row for x
 number of notes, until the pattern delay counter is 0.  When it is 0 the mod
 should keep playing as if nothing had happened.
 
-зддддддддддддддддддддддддддддддддддддддд©
-Ё ╟╠╡ 5.31 Effect EFx (Invert Loop) ╡╠╟ Ё UPDATED: T0 [Y] : INBETWEEN [N]
-юддддддддддддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫ О©╫О©╫О©╫ 5.31 Effect EFx (Invert Loop) О©╫О©╫О©╫ О©╫ UPDATED: T0 [Y] : INBETWEEN [N]
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 This effect inverts a sample loop or plays it backwards.
 
 EG:
@@ -1996,10 +1996,10 @@ Range: x = speed to set invert loop at (0h-0Fh)
 This effect is not supported in any player or tracker.  Don't bother with it.
 
 
-здддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддд©
-Ё                   ╟╠╡          : SECTION 6 :          ╡╠╟                  Ё
-Ё                   ╟╠╡ Protracker 1.1B Format Document ╡╠╟                  Ё
-юдддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддддды
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©
+О©╫                   О©╫О©╫О©╫          : SECTION 6 :          О©╫О©╫О©╫                  О©╫
+О©╫                   О©╫О©╫О©╫ Protracker 1.1B Format Document О©╫О©╫О©╫                  О©╫
+О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫
 
 Offset  Bytes  Description
    0     20    Songname. Remember to put trailing null bytes at the end...

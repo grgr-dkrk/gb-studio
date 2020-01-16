@@ -12,7 +12,7 @@
 var Helpers = {
 
 	/**
-	 * Read a 2-byte word form the the buffer at a given offset.
+	 * Read a 2-byte word form the buffer at a given offset.
 	 *
 	 * @param	{Uint8Array}	buffer			The buffer we're going to read from.
 	 * @param	{Integer}		offset			The buffer position to start reading.
@@ -25,7 +25,7 @@ var Helpers = {
 
 
 	/**
-	 * Read a big-endian 2-byte word form the the buffer at a given offset.
+	 * Read a big-endian 2-byte word form the buffer at a given offset.
 	 *
 	 * @param	{Uint8Array}	buffer			The buffer we're going to read from.
 	 * @param	{Integer}		offset			The buffer position to start reading.
